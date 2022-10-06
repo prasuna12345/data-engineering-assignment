@@ -56,7 +56,7 @@ The two tables should be created in the Postgres DB that is brought up by execut
 * create staging tables as necessary for any intermediate steps in the process
 
 ## Instructions
-You should make a pull request to this repository containing the solution. If you need to clarify any point of your solution, please include an explanation in the PR description.
+You should send a zip file of repo in email to the HR containing the solution. If you need to clarify any point of your solution, please include an explanation in one of the solutionreadme.md file.
 
 What we expect:
 * The code implementing the ETL logic, triggered from the `run.py` script
