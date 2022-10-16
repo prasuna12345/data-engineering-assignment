@@ -12,5 +12,5 @@
 
 ## Observations
 
-> Articles with single ID are having multiple names/categories. In my opinion, Each article must be associated with a single name & category.
-
+> * Articles with single ID are having multiple names/categories. In my opinion, Each article must be associated with a single name & category.
+> * There are some articles which have been marked as article_viewed by a particular user, but doesn't have a card_view with that user
