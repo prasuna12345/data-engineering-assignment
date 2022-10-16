@@ -12,5 +12,5 @@
 
 ## Observations
 
-> * Articles with single ID are having multiple names/categories. In my opinion, Each article must be associated with a single name & category.
+> Articles with single ID are having multiple names/categories. In my opinion, Each article must be associated with a single name & category.
 
